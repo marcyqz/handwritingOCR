@@ -67,7 +67,7 @@ I wanted to:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repo or open in [Google Colab](https://colab.research.google.com)
 2. Upload your own dataset of handwritten characters (zip format)
@@ -75,6 +75,6 @@ I wanted to:
 
 ---
 
-## 👩‍💻 Author
+## Author
 
-Made with ✨ curiosity and confusion by [Your Name Here].
+Made with ✨ curiosity and confusion by Marcy.
